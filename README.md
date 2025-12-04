@@ -33,5 +33,5 @@ Aplicação completa para controle de estoque, vendas, fornecedores e compradore
 ⭐ Projeto desenvolvido como parte da composição de nota para a disciplina Programação em Microinformatica, ministrada pelo professor Humberto Luiz de Toledo, da FATEC São Caetano do Sul.
 
 ## 👤 Autores
-Giovanna P Vinturi - [GitHub](https://github.com/gipissin)
-Aline Michele
+- Giovanna P Vinturi - [GitHub](https://github.com/gipissin)
+- Aline Michele
