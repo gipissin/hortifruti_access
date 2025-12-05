@@ -34,4 +34,4 @@ Aplicação completa para controle de estoque, vendas, fornecedores e compradore
 
 ## 👤 Autores
 - Giovanna P Vinturi - [GitHub](https://github.com/gipissin)
-- Aline Michele
+- Aline Michele - [GitHub](https://github.com/minhas-estrelas)
